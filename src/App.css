@@ -47,10 +47,14 @@ body{
      background-color: rgb(76, 76, 76);
 }
 
-#twitter{
+#tweet-quote{
      border: none;
      border-radius: 3px;
      width: 35px;
      background-color: rgb(76, 76, 76);
+     color: white;
+}
+#tweet-quote > a{
+     text-decoration: none;
      color: white;
 }
